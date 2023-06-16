@@ -5,7 +5,7 @@ const fromEuroToDollar = function(valueInEuro){
     // retornamos el valor
     return valueInDollar;
 }
-// declaramos una funcion con el mismo nombre "fromdollarToyen"
+// declaramos una funcion con el mismo nombre "fromdollarToYen"
 const fromDollarToYen = function(valueInDollar){
     // convertimos el valor a yenes
     let valueInDollar = valueInYen * 1.2;
